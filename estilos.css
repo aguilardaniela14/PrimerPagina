@@ -1,0 +1,85 @@
+/*Asi se ecribe un comentario*/
+body{
+    /*Color de fondo*/
+    background-color:#9793ec;
+    /*Color de letra*/
+    color:#730017;
+    /*Tipo de letra (fuentes) fijas*/
+    /*font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+
+    /*De Google Font se saco esto*/
+    font-family: 'Playfair Display', serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+/*Cambiar el color a los titulos*/
+h1 {
+    color:#103855;
+}
+
+h2 {
+    color:#a52f05;
+}
+h3 {
+    color:#5d3a03;
+}
+
+/*Cambiar el color de las listas*/
+ol {
+    color:black;
+}
+
+ul{
+    color:brown;
+}
+
+/*Imagenes (colocar medidas,bordes(dotted,solid))*/
+.img1 {
+    width: 200px;
+    height: 150px;
+    border-style:dotted;
+    border-color:#730017;
+    border-width: 10px;
+    padding:20px;
+    margin:50px;
+
+}
+
+.img2 {
+    width: 200px;
+    height:150px;
+    border-style:solid;
+    border-color:blue;
+    border-width: 10px;
+    margin-left:60px;
+    margin-top: 15px;
+}
+
+
+.img3 {
+    width: 200px;
+    height:150px;
+    border-style:solid;
+    border-color:blue;
+    border-width: 10px;
+    margin-left:200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+
+.img4 {
+    width: 200px;
+    height:150px;
+    border-style:dotted;
+    border-color:#730017;
+    border-width: 10px;
+    margin-left:500px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+small{
+    color:indigo;
+}
+
